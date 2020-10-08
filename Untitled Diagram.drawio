@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T03:14:21.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="VwhC9v9JcT7JCsIRjIS3" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T03:15:11.082Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="Mh177-O-e5yiOKzBrQph" version="13.7.8" type="github">
   <diagram id="9d1zXaGXQL4afwREDJQw" name="Page-1">
     <mxGraphModel dx="1069" dy="577" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -76,11 +76,14 @@
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-16" value="Health tracking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="220" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-17" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-17" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="150" y="290" as="sourcePoint" />
             <mxPoint x="320" y="200" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-18" value="Team communication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="310" width="130" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
