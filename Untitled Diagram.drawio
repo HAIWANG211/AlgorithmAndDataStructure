@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T03:53:50.500Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="5J8zuWZ5OK5LsKrfOeH5" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T03:55:53.068Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="GdDQAq-dYpCv8bPDfJqn" version="13.7.8" type="github">
   <diagram id="9d1zXaGXQL4afwREDJQw" name="Page-1">
-    <mxGraphModel dx="1896" dy="577" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1069" dy="577" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -56,19 +56,19 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-12" value="Team formation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="-63" y="207" width="100" height="20" as="geometry" />
+          <mxGeometry x="9" y="202" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-13" value="" style="endArrow=none;html=1;exitX=0.609;exitY=1.055;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-14">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="27" y="171" as="sourcePoint" />
-            <mxPoint x="144" y="171" as="targetPoint" />
+            <mxPoint x="162" y="171" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-14" value="Team distribution" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry y="135" width="110" height="20" as="geometry" />
+          <mxGeometry x="27" y="137" width="110" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-16" value="Health tracking" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="37" y="223" width="100" height="20" as="geometry" />
+          <mxGeometry x="117" y="189" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-17" value="" style="endArrow=none;html=1;exitX=0.804;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -79,14 +79,14 @@
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-18" value="Team communication" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
           <mxGeometry y="295" width="130" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-19" value="" style="endArrow=none;html=1;exitX=0.477;exitY=1.028;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-20">
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-19" value="" style="endArrow=none;html=1;exitX=0.998;exitY=0.508;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-20">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="199" y="234" as="sourcePoint" />
             <mxPoint x="234" y="243" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-20" value="Contact &lt;br&gt;team members" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="137" y="197" width="100" height="30" as="geometry" />
+          <mxGeometry x="99" y="222" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-21" value="" style="endArrow=none;html=1;exitX=0.505;exitY=-0.085;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -100,17 +100,14 @@
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-23" value="" style="endArrow=none;html=1;exitX=0.609;exitY=-0.117;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-16">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="252" y="320" as="sourcePoint" />
-            <mxPoint x="108" y="180" as="targetPoint" />
+            <mxPoint x="180" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-24" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-24" value="" style="endArrow=none;html=1;exitX=0.242;exitY=-0.215;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-25">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="675" y="288" as="sourcePoint" />
             <mxPoint x="432" y="198" as="targetPoint" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-25" value="Personnel comfirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="285" width="144" height="18" as="geometry" />
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-26" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-27">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -123,30 +120,33 @@
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-30" value="" style="endArrow=none;html=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="846" y="216" as="sourcePoint" />
+            <mxPoint x="774" y="198" as="sourcePoint" />
             <mxPoint x="549" y="144" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-31" value="Equipment Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="827" y="217" width="144" height="18" as="geometry" />
+          <mxGeometry x="683" y="199" width="144" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-32" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-32" value="" style="endArrow=none;html=1;exitX=0.435;exitY=0.084;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-33">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="711" y="216" as="sourcePoint" />
-            <mxPoint x="671" y="171" as="targetPoint" />
+            <mxPoint x="625" y="199" as="sourcePoint" />
+            <mxPoint x="585" y="154" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-33" value="PPE equipment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="693" y="217" width="99" height="18" as="geometry" />
+          <mxGeometry x="576" y="189" width="99" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="A5MzGQiEFCiiMQbKR6oo-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-35" value="" style="endArrow=none;html=1;entryX=0.465;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="A5MzGQiEFCiiMQbKR6oo-36">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="693" y="180" as="sourcePoint" />
+            <mxPoint x="630" y="162" as="sourcePoint" />
             <mxPoint x="747" y="153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-36" value="AR headsets activated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
-          <mxGeometry x="711" y="137" width="135" height="18" as="geometry" />
+          <mxGeometry x="657" y="126" width="135" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-25" value="Personnel comfirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="612" y="267" width="144" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
