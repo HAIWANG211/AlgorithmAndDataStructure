@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-10-08T03:49:37.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="cob4KrdTV5hPFnLv7HfD" version="13.7.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-10-08T03:51:49.145Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="KfU1KINUraOROWjEjg93" version="13.7.8" type="github">
   <diagram id="9d1zXaGXQL4afwREDJQw" name="Page-1">
     <mxGraphModel dx="1896" dy="577" grid="1" gridSize="9" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -124,7 +124,7 @@
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-28" value="" style="endArrow=none;html=1;" edge="1" parent="1" source="A5MzGQiEFCiiMQbKR6oo-29">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="576" y="207" as="sourcePoint" />
-            <mxPoint x="522" y="234" as="targetPoint" />
+            <mxPoint x="513" y="228" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="A5MzGQiEFCiiMQbKR6oo-29" value="Distribution of&lt;br&gt;Fogger and cleaners" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
@@ -135,6 +135,27 @@
             <mxPoint x="846" y="216" as="sourcePoint" />
             <mxPoint x="549" y="144" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-31" value="Equipment Confirmation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="217" width="144" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-32" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="711" y="216" as="sourcePoint" />
+            <mxPoint x="671" y="171" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-33" value="PPE equipment" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="693" y="217" width="99" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-35" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="693" y="180" as="sourcePoint" />
+            <mxPoint x="747" y="153" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A5MzGQiEFCiiMQbKR6oo-36" value="AR headsets activated" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+          <mxGeometry x="711" y="137" width="135" height="18" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
